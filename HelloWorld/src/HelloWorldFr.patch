@@ -1,0 +1,25 @@
+From c03f5d2d30ad829e89152f12715924f3a9c128b9 Mon Sep 17 00:00:00 2001
+From: wq <wq911206@gmail.com>
+Date: Fri, 3 Oct 2014 13:36:12 -0500
+Subject: [PATCH] modification with branch HelloWorldFr
+
+---
+ HelloWorld/src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index b316ea1..17e0676 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Bonjour, monde!");
+ 	}
+ 
+ }
+-- 
+1.9.3 (Apple Git-50)
+
